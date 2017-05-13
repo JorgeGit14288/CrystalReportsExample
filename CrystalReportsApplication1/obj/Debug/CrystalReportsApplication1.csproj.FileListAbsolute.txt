@@ -1,0 +1,9 @@
+c:\users\jorge\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.exe.config
+c:\users\jorge\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.exe
+c:\users\jorge\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.pdb
+c:\users\jorge\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.Form1.resources
+c:\users\jorge\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.Properties.Resources.resources
+c:\users\jorge\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.csproj.GenerateResource.Cache
+c:\users\jorge\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.exe
+c:\users\jorge\documents\visual studio 2013\Projects\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.pdb
